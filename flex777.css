@@ -1,0 +1,25 @@
+header{display: flex;
+justify-content: space-between;
+align-items: center;
+ padding: 25px 60px;
+position: relative;}
+
+.down{
+display: flex;
+justify-content: center;
+text-align: center;
+flex-direction: row;
+gap: 10px;
+}
+.down img{ height: 150px;
+width: 150px;
+padding: 100px;}
+
+
+.products{
+    display: flex;
+    justify-content: center;
+    gap: 85px;
+    margin-top: 40px;
+}
+
